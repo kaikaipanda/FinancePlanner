@@ -1,0 +1,74 @@
+____________________________________________________
+Username: bryton
+'Mth'       'Spent'        'Saved'        'Status'
+
+ January          1800          -200         Overspent!
+
+ February          1000          600         Saved :)
+
+ March          1600          0         -
+
+____________________________________________________
+Username:  haiz
+'Mth'       'Spent'        'Saved'        'Status'
+
+ January          9          2391         Saved :)
+
+ February          2          2398         Saved :)
+
+_______________________________________________________________________
+Username: bryton
+'Mth'       'Spent'        'Saved'        'Status'
+
+ January          200          1400         Saved :)
+
+ February          200          1400         Saved :)
+
+ March          5000          -3400         Overspent!
+
+_______________________________________________________________________
+Username: bryton
+'Mth'       'Spent'        'Saved'        'Status'
+
+ January          20          1580         Saved :)
+
+ February          30          1570         Saved :)
+
+ March          40          1560         Saved :)
+
+_______________________________________________________________________
+Username: bryton
+'Mth'       'Spent'        'Saved'        'Status'
+
+ January          400          1200         Saved :)
+
+_______________________________________________________________________
+Username: bryton
+'Mth'       'Spent'        'Saved'        'Status'
+
+ January          400          4400         Saved :)
+
+_______________________________________________________________________
+Username: bryton
+'Mth'       'Spent'        'Saved'        'Status'
+
+ January          500          500         Saved :)
+
+_______________________________________________________________________
+Username: bryton
+'Mth'       'Spent'        'Saved'        'Status'
+
+ January          0          800         Saved :)
+
+_______________________________________________________________________
+Username: bryton
+'Mth'       'Spent'        'Saved'        'Status'
+
+ January          200          600         Saved :)
+
+ February          500          300         Saved :)
+
+ March          100          700         Saved :)
+
+ April          800          0         -
+

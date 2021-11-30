@@ -1,0 +1,20 @@
+{
+  "files": {
+    "Bryt.txt": [
+      {
+        "id": "898dfabf-fd66-4321-a947-82a9345193e1",
+        "line": 2,
+        "version": 1,
+        "index": 6
+      }
+    ],
+    "tracker.txt": [
+      {
+        "id": "cb28f2d5-c8c3-46e0-acbe-90315a19a622",
+        "line": 1,
+        "version": 245,
+        "index": 0
+      }
+    ]
+  }
+}
